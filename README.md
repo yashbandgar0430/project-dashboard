@@ -137,7 +137,7 @@ src/
 
 # 🚀 Deployment
 
-- GitHub Repository: (Add Link Here)
+- GitHub Repository: (git clone https://github.com/your-username/project-dashboard)
 - Live Project: (project-dashboard-txy4.vercel.app)
 
 ---
